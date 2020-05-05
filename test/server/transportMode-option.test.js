@@ -230,6 +230,7 @@ describe('transportMode', () => {
 
                   onConnection(f) {
                     this.socket.on('connection', (connection) => {
+                      console.log(connection);
                       f(connection, connection.headers);
                     });
                   }

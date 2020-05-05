@@ -26,6 +26,7 @@ describe('WebsocketServer', () => {
           sockPath: '/ws-server',
         },
         listeningApp,
+        wsHeartbeatInterval: 800,
       };
       socketServer = new WebsocketServer(server);
       done();

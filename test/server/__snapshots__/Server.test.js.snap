@@ -6,7 +6,7 @@ Array [
     "client",
     "index.js?http:",
     "localhost:8100&sockPath=",
-    "sockjs-node",
+    "ws",
   ],
   Array [
     "node_modules",
@@ -26,7 +26,7 @@ Array [
     "client",
     "index.js?http:",
     "localhost:8100&sockPath=",
-    "sockjs-node",
+    "ws",
   ],
   Array [
     "node_modules",
