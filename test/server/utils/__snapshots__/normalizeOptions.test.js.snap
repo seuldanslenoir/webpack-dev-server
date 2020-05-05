@@ -9,7 +9,7 @@ Object {
   "contentBasePublicPath": "/",
   "hot": true,
   "serveIndex": true,
-  "sockPath": "/sockjs-node",
+  "sockPath": "/ws",
   "stats": Object {},
   "transportMode": Object {
     "client": "ws",
@@ -25,7 +25,7 @@ Object {
   "contentBasePublicPath": "/",
   "hot": true,
   "serveIndex": true,
-  "sockPath": "/sockjs-node",
+  "sockPath": "/ws",
   "stats": Object {},
   "transportMode": Object {
     "client": "ws",
@@ -40,7 +40,7 @@ Object {
   "contentBasePublicPath": "/content-base-public-path",
   "hot": true,
   "serveIndex": true,
-  "sockPath": "/sockjs-node",
+  "sockPath": "/ws",
   "stats": Object {},
   "transportMode": Object {
     "client": "ws",
@@ -55,7 +55,7 @@ Object {
   "contentBasePublicPath": "/",
   "hot": true,
   "serveIndex": true,
-  "sockPath": "/sockjs-node",
+  "sockPath": "/ws",
   "stats": Object {},
   "transportMode": Object {
     "client": "ws",
@@ -70,7 +70,7 @@ Object {
   "contentBasePublicPath": "/",
   "hot": true,
   "serveIndex": true,
-  "sockPath": "/sockjs-node",
+  "sockPath": "/ws",
   "stats": Object {},
   "transportMode": Object {
     "client": "/path/to/custom/client/",
@@ -85,7 +85,7 @@ Object {
   "contentBasePublicPath": "/",
   "hot": true,
   "serveIndex": true,
-  "sockPath": "/sockjs-node",
+  "sockPath": "/ws",
   "stats": Object {},
   "transportMode": Object {
     "client": "ws",
@@ -100,7 +100,7 @@ Object {
   "contentBasePublicPath": "/",
   "hot": true,
   "serveIndex": true,
-  "sockPath": "/sockjs-node",
+  "sockPath": "/ws",
   "stats": Object {},
   "transportMode": Object {
     "client": "ws",
@@ -115,7 +115,7 @@ Object {
   "contentBasePublicPath": "/",
   "hot": true,
   "serveIndex": true,
-  "sockPath": "/sockjs-node",
+  "sockPath": "/ws",
   "stats": Object {},
   "transportMode": Object {
     "client": "sockjs",
@@ -130,7 +130,7 @@ Object {
   "contentBasePublicPath": "/",
   "hot": true,
   "serveIndex": true,
-  "sockPath": "/sockjs-node",
+  "sockPath": "/ws",
   "stats": Object {},
   "transportMode": Object {
     "client": "ws",
@@ -145,7 +145,7 @@ Object {
   "contentBasePublicPath": "/",
   "hot": true,
   "serveIndex": true,
-  "sockPath": "/sockjs-node",
+  "sockPath": "/ws",
   "stats": Object {},
   "transportMode": Object {
     "client": "ws",
@@ -160,7 +160,7 @@ Object {
   "contentBasePublicPath": "/",
   "hot": true,
   "serveIndex": true,
-  "sockPath": "/sockjs-node",
+  "sockPath": "/ws",
   "stats": Object {},
   "transportMode": Object {
     "client": "ws",
